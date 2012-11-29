@@ -13,13 +13,13 @@ paginate: 8
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title: d9.github.com
-tagline: d9 for world!
+title: D9
+tagline: D9 for world!
 author :
-  name : d9
+  name : D9
   email : d9@gmail.com
-  github : d9
-  twitter : d9
+  github : D9
+  twitter : D9
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -29,7 +29,7 @@ author :
 # Else if you are pushing to username.github.com, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://d9.github.com/
+production_url : http://d9.github.com
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -82,7 +82,7 @@ JB :
   # Set 'provider' to the comment provider you want to use.
   # Set 'provider' to false to turn commenting off globally.
   #
-  #comments :
+  comments :
     provider : disqus
     disqus :
       short_name : eccd9
