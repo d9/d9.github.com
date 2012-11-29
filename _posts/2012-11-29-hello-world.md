@@ -4,7 +4,7 @@ title: "hello world"
 description: "hello world"
 category:
  - words
-tags: []
+tags: [hello]
 ---
 {% include JB/setup %}
 
