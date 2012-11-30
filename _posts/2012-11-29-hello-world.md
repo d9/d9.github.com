@@ -11,7 +11,7 @@ tags: [hello]
 hello world!
 
 <div class="preview" id="preview">
-	<div class="demo">demo</div>
+<div class="demo">demo</div>
 </div>
 <style type="text/css" id="cssR">
 .demo{color:red;}
