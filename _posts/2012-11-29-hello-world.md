@@ -8,8 +8,6 @@ tags: [hello]
 ---
 {% include JB/setup %}
 
-hello world!
-
 <h4>Preview</h4>
-<div class="preview" id="preview"><div class="demo">demo</div></div>
+<div class="preview" id="preview"><div class="demo">hello world</div></div>
 <style type="text/css" id="cssR">.demo{color:red;}</style>
