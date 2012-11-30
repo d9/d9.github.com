@@ -9,14 +9,10 @@ tags: [hello]
 {% include JB/setup %}
 
 hello world!
-{% highlight html %}
-<div class="demo">demo</div>
-{% endhighlight %}
 
-{% highlight css %}
+<div class="preview" id="preview">
+	<div class="demo">demo</div>
+</div>
+<style type="text/css" id="cssR">
 .demo{color:red;}
-{% endhighlight %}
-
-{% highlight javascript %}
-alert("hello world!");
-{% endhighlight %}
+</style>
