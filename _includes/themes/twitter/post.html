@@ -67,6 +67,16 @@
 <!--
 $("#codeHtml").val( $("#preview").html());
 $("#codeCss").val( $("#cssR").html());
+
+$(document).ready(function() { 
+	$('#codeHtml').live('keyup', function(e) {
+		$('#preview').html($(this).val());
+	});
+	$('#codeCss').live('keyup', function(e) {
+		$('#cssR').html($(this).val());
+	});
+}); 
+
 //-->
 </script>
 <style type="text/css">
