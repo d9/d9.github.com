@@ -10,9 +10,6 @@ tags: [hello]
 
 hello world!
 
-<div class="preview" id="preview">
-<div class="demo">demo</div>
-</div>
-<style type="text/css" id="cssR">
-.demo{color:red;}
-</style>
+<h4>Preview</h4>
+<div class="preview" id="preview"><div class="demo">demo</div></div>
+<style type="text/css" id="cssR">.demo{color:red;}</style>
