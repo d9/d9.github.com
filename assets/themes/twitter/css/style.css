@@ -100,8 +100,6 @@ html, body{
 }
 #toTop:active, #toTop:focus { outline:none; }
 
-.content .page-header{padding-left:30px;}
-.content .mainc{margin-left:10px;}
 .preview{margin: 20px 0 35px;}
 .codeview{margin-bottom:25px;}
 .codeview textarea{
