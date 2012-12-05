@@ -81,6 +81,8 @@ html, body{
 	color:#FFF;
 }
 
+h1,
+.posts h3{font-family:Georgia, Arial,"\5FAE\8F6F\96C5\9ED1";}
 .posts h3{font-size:16px;margin:0;display: inline-block;*display: inline;*zoom:1;}
 .preview{margin: 20px 0 35px;}
 .codeview{margin-bottom:25px;}
