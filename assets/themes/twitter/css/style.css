@@ -81,6 +81,8 @@ html, body{
 	color:#FFF;
 }
 
+.navbar .nav li{_float:left;}
+.row{_margin-left:0;}
 h1,
 .posts h3{font-family:Georgia, Arial,"\5FAE\8F6F\96C5\9ED1";}
 .posts h3{font-size:16px;margin:0;display: inline-block;*display: inline;*zoom:1;}
