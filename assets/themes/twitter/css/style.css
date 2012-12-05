@@ -100,10 +100,12 @@ html, body{
 }
 #toTop:active, #toTop:focus { outline:none; }
 
+.content .page-header{padding-left:30px;}
+.content .mainc{margin-left:10px;}
 .preview{margin: 20px 0 35px;}
 .codeview{margin-bottom:25px;}
 .codeview textarea{
-overflow:auto;width:90%;height:8em;
+overflow:auto;width:98%;height:8em;
 display: block;
 padding: 9.5px;
 margin: 0 0 10px;
