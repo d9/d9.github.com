@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "1px圆角 无背景图(float) "
-description: "float实现 无需hack"
+title: "1px鍦嗚 鏃犺儗鏅浘(float) "
+description: "float瀹炵幇 鏃犻渶hack"
 category:
  - css
-tags: [float,圆角,无背景图]
+tags: [float,鍦嗚,鏃犺儗鏅浘]
 ---
 {% include JB/setup %}
 
-<h4>效果预览</h4>
+<h4>鏁堟灉棰勮</h4>
 
 <div class="preview" id="preview"><p class="rbf">
-  <span><span>今天</span></span>
-  <span class="on"><span>昨天</span></span>
+  <span><span>浠婂ぉ</span></span>
+  <span class="on"><span>鏄ㄥぉ</span></span>
 </p>
 </div>
 

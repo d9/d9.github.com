@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "1px圆角 无背景图(inline block)"
-description: "inline-block实现 ie6/7需要hack"
+title: "1px鍦嗚 鏃犺儗鏅浘(inline block)"
+description: "inline-block瀹炵幇 ie6/7闇�瑕乭ack"
 category:
  - css
-tags: [inline-block,圆角,无背景图]
+tags: [inline-block,鍦嗚,鏃犺儗鏅浘]
 ---
 {% include JB/setup %}
 
-<h4>效果预览</h4>
+<h4>鏁堟灉棰勮</h4>
 
 <div class="preview" id="preview"><p class="rbi">
-  <span class="on"><span>今天</span>
-  </span><span><span>昨天</span></span>
+  <span class="on"><span>浠婂ぉ</span>
+  </span><span><span>鏄ㄥぉ</span></span>
 </p>
 </div>
 
